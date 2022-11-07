@@ -2,8 +2,7 @@
 
 # Primeros Pasos :)
 
-
-## Grabación de la Clase 1
+## Grabación de la Clase 1 :) :) :)
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/683356760" allow="autoplay; fullscreen" allowfullscreen></iframe>

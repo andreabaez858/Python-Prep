@@ -1,6 +1,7 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# Primeros Pasos
+# Primeros Pasos :)
+
 
 ## Grabación de la Clase 1
 
